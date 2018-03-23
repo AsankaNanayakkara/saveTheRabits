@@ -1,0 +1,13 @@
+.error{
+    color:#CC0000;
+}
+
+.success{
+    color:#00CC33;
+}
+
+.tableWrap{
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+}
